@@ -9,6 +9,6 @@
 !Zybo-logic-gate-demo.hw/
 
 # object files and dependent files
-.xpr
-.xsa
-.tcl
+!.xpr
+!.xsa
+!.tcl

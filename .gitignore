@@ -5,10 +5,24 @@
 !.gitignore
 !.gitmodules
 !README.md
-!Zybo-logic-gate-demo.srcs/
-!Zybo-logic-gate-demo.hw/
-
-# object files and dependent files
 !.xpr
 !.xsa
 !.tcl
+!Zybo-logic-gate-demo.srcs/
+!Zybo-logic-gate-demo.hw/
+!platform/
+!not_gate/
+
+# Ignore object files and dependent files
+.o
+.d
+
+#Ignore logs folder and log files
+/logs
+.log
+
+#Ignore lock files
+.lock
+
+.bin
+.pdi

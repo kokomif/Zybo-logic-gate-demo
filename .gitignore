@@ -1,0 +1,14 @@
+# Blacklist everything
+/*
+
+# whitelist the necessary files and folders, this gets everything from inside them too
+!.gitignore
+!.gitmodules
+!README.md
+!Zybo-logic-gate-demo.srcs/
+!Zybo-logic-gate-demo.hw/
+
+# object files and dependent files
+.xpr
+.xsa
+.tcl

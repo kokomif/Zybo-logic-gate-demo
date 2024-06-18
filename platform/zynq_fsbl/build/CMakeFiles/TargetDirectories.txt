@@ -1,0 +1,3 @@
+G:/FPGA/try_and_error/Zybo-logic-gate-demo/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+G:/FPGA/try_and_error/Zybo-logic-gate-demo/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+G:/FPGA/try_and_error/Zybo-logic-gate-demo/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
